@@ -1,5 +1,7 @@
-Programación Declarativa - Laboratorio 1  
-Ejercicio 4
+Daniel Alexander Armas Domínguez 00232622 - Sección 01
+
+Programación Declarativa - Laboratorios
 -
 
-Daniel Alexander Armas Domínguez 00232622 - Sección 01
+Laboratorio 1: Hechos y reglas (Ejercicio 4)  
+Laboratorio 3: Recursion y SLD (Ejercicio 1)
