@@ -5,3 +5,4 @@ Programación Declarativa - Laboratorios
 
 Laboratorio 1: Hechos y reglas (Ejercicio 4)  
 Laboratorio 3: Recursion y SLD (Ejercicio 1)
+Laboratorio 4: Listas (Ejercicio 3)
